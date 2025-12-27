@@ -1,6 +1,6 @@
 # Medical SQL Project
 
-This is a SQL project based on medical data stored in CSV files.
+This is a SQL project based on medical data.
 
 ## About the Project
 This project uses SQL to answer a set of questions using medical datasets.
